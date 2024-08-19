@@ -1,2 +1,3 @@
 Hello World Oishi!
-More changes from some ResolveMergeConflict branch.
+
+More changes from another branch.
